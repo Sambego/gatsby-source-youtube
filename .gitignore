@@ -1,5 +1,7 @@
 /*.js
 !index.js
+!gatsby-node.js
+!normalize.js
 
 # Created by https://www.gitignore.io/api/node,visualstudiocode
 
